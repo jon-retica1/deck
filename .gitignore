@@ -1,3 +1,6 @@
+# Because even developers need privacy
+.env
+
 # Logs
 logs
 *.log
